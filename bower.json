@@ -5,7 +5,7 @@
     "Sumit Kulkarni <sumitkulkarni488@gmail.com>"
   ],
   "description": "Proxy CORS with jQuery.",
-  "main": "src/jquery-corssorigin.js",
+  "main": "src/jquery-crossorigin.js",
   "keywords": [
     "crossorigin",
     "jquery",
