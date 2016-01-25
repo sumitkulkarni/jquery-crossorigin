@@ -13,7 +13,7 @@
     "corsproxy"
   ],
   "license": "MIT",
-  "homepage": "http://github.com/Celc/jquery-cors",
+  "homepage": "https://github.com/sumitkulkarni/jquery-crossorigin",
   "ignore": [
     "**/.*",
     "node_modules",
