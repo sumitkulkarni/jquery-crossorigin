@@ -1,0 +1,27 @@
+{
+  "name": "jquery-crossorigin",
+  "version": "1.0.0",
+  "title": "jQuery CORSS Origin ajax plugin.",
+  "description": "Sends cross domain ajax requests",
+  "keywords": [
+    "ajax",
+    "corssorigin"
+  ],
+  "author": {
+    "name": "Sumit Kulkarni",
+    "email": "sumitkulkarni488@gmail.com",
+    "url": "https://github.com/sumitkulkarni"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jquery/jquery-color/blob/2.1.2/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/sumitkulkarni/jquery-crossorigin/issues",
+  "homepage": "https://github.com/sumitkulkarni/jquery-crossorigin",
+  "docs": "https://github.com/sumitkulkarni/jquery-crossorigin",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
