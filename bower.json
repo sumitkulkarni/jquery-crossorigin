@@ -1,0 +1,24 @@
+{
+  "name": "jquery-crossorigin",
+  "version": "1.0.0",
+  "authors": [
+    "Sumit Kulkarni <sumitkulkarni488@gmail.com>"
+  ],
+  "description": "Proxy CORS with jQuery.",
+  "main": "src/jquery-corssorigin.js",
+  "keywords": [
+    "crossorigin",
+    "jquery",
+    "ajax",
+    "corsproxy"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/Celc/jquery-cors",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
